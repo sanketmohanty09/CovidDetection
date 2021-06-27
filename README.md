@@ -12,3 +12,7 @@ Here I have only selected the images which have the posterior anterior view,for 
 # Model and Accuracy
 As there are only 149 xray images of infected lungs,which is much less training dataset to apply any kind of transfer learning so I decided to apply CNN model.
 The model gave a accuracy of 90% on the training dataset and 81% on the validation set
+
+# Custom Image testing
+
+In the last part of the notebook I have used the pretained model to predict wether to predict wether the uploaded image is of covid +VE patients or of covid -ve patients.
