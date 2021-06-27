@@ -1,1 +1,1 @@
-# CovidDetection
+# CovidDetector
